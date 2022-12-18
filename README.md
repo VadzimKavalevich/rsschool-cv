@@ -7,10 +7,9 @@
     + E-mail: vadzim.kavalevich@gmail.com
     + Telegram: @AdvocatV
     + Discord: Advo#1266
-    + <a href="https://www.linkedin.com/in/vadzim-kavalevich-691a03250/">LinkedIn</a>
-    + <a href="https://github.com/VadzimKavalevich">GitHub</a>
+    + LinkedIn
+    + GitHub
 #### Briefly About Myself:
-    
         I want to find a job in a new field for me, dedicate myself fully and achieve success with my further company.
         Before I worked as a teacher of Analytical Chemistry at a Brest State University Belarus),
         had a small business in the field of education.
@@ -28,7 +27,6 @@
         Usually when you buy something, you're asked whether your credit card number, phone number or answer to your most
         secret question is still correct. However, since someone could look over your shoulder, you don't want that
         shown on your screen. Instead, we mask it.
-
         Your task is to write a function maskify, which changes all but the last four characters into '#'.
 ```        
             // return masked string
@@ -44,7 +42,6 @@
                 }
             }
 ```
-
 #### Courses(will be updated, some info was lost):
     + Freecodecamp
     + JetBrains Academy
