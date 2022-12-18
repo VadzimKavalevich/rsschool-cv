@@ -46,10 +46,10 @@
 ```
 
 #### Courses(will be updated, some info was lost):
-    + <a href="https://www.freecodecamp.org/Vadim_">Freecodecamp</a>
-    + <a href="https://hyperskill.org/profile/351468604">JetBrains Academy</a>
-    + <a href="https://developers.google.com/profile/u/103554953005908632497">Google Developers</a>
-    + <a href="https://www.codewars.com/users/Vadim_">Codewars</a>
+    + Freecodecamp
+    + JetBrains Academy
+    + Google Developers
+    + Codewars
 #### Languages:
     + Russian - Native
     + Belarussian - Native
